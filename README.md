@@ -7,7 +7,7 @@ The aim of the Code Review Club is multi-fold:
 
 The Code Review Club will meet fortnightly to discuss code review practices, talk about their scientific applications, and **review each other's code**. 
 
-## Expectations
+## Guidelines
 
 - Treat everyone with respect and always try to offer constructive criticism
 - Reciprocate code review; if someone has looked at your pull request, return the favour
