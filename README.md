@@ -5,13 +5,14 @@ The aim of the Code Review Club is multi-fold:
 - To give chemistry students and PDRAs experience reviewing code and having their code reviewed
 - To improve collaboration and interaction across the School of Chemistry
 
-The Code Review Club will meet fortnightly to discuss code review practices, talk about their scientific applications, and to **review each others code**. 
+The Code Review Club will meet fortnightly to discuss code review practices, talk about their scientific applications, and **review each other's code**. 
 
 ## Expectations
 
 - Treat everyone with respect and always try to offer constructive criticism
 - Reciprocate code review; if someone has looked at your pull request, return the favour
 - The code that you will review may be part of a yet unpublished scientific work -- treat it with confidence
-- If your code is in a private repository, you must give 
+- If you are reviewing code in a private repository, you may need to be given collaborator access -- treat this access with the utmost respect
+- You may need to be willing to give others access to your private repository.
 
-The expectation is that your efforts to review anothers will be reciprocated by others. 
+The Code Review Club aspires to be a friendly, respectful community; if you are found to act against these expectations, you will be asked to leave. 
